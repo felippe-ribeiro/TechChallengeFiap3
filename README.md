@@ -8,7 +8,7 @@ Este repositório contém a entrega completa para a **Fase 3 do Tech Challenge (
 - **Fine-tuning (QLoRA)**: Especialização do modelo Llama-3 em dados médicos.
 - **Python**: Linguagem base do projeto.
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 - `data/`: Contém o dataset sintético (`.jsonl`) utilizado para o fine-tuning.
 - `notebooks/`: Notebook pronto para execução no **Google Colab** para o treinamento do modelo.
 - `src/`: 
@@ -16,7 +16,7 @@ Este repositório contém a entrega completa para a **Fase 3 do Tech Challenge (
     - `utils/`: Guardrails de segurança e anonimização de dados.
 - `main.py`: Script de demonstração dos fluxos.
 
-## 🛠️ Como Executar Localmente
+## Como Executar Localmente
 
 1. **Instale as dependências**:
    ```bash
